@@ -1,0 +1,8 @@
+# Environments
+.env
+
+# Python artifacts
+__pycache__/
+
+# Langchain artifacts
+.langchain_api/clear
