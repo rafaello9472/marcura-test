@@ -74,7 +74,7 @@ python src/main.py
 ```
 
 ### Output
-The script logs page-by-page execution state to stdout. Upon completion, it outputs an `extracted_clauses.json` file containing the reconciled array of extracted clauses.
+The script logs page-by-page execution state to stdout. Upon completion, it outputs an `output/extracted_clauses.json` file containing the reconciled array of extracted clauses.
 
 ## Performance & Trade-offs
 
